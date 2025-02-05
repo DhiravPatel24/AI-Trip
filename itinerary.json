@@ -1,0 +1,88 @@
+{
+    "destination": "JAYPUR",
+    "trip_duration": 5,
+    "activities": [
+        "Shopping",
+        "Hiking",
+        "Dining"
+    ],
+    "itinerary": {
+        "destination": "Jaipur",
+        "daily_activities": [
+            [
+                {
+                    "activity": "Shopping",
+                    "location": "Johari Bazaar"
+                },
+                {
+                    "activity": "Dining",
+                    "location": "Chokhi Dhani"
+                }
+            ],
+            [
+                {
+                    "activity": "Hiking",
+                    "location": "Aravalli Hills"
+                },
+                {
+                    "activity": "Shopping",
+                    "location": "Bapu Bazaar"
+                }
+            ],
+            [
+                {
+                    "activity": "Dining",
+                    "location": "Rawat Mishthan Bhandar"
+                },
+                {
+                    "activity": "Shopping",
+                    "location": "Tripolia Bazaar"
+                }
+            ],
+            [
+                {
+                    "activity": "Hiking",
+                    "location": "Nahargarh Fort"
+                },
+                {
+                    "activity": "Dining",
+                    "location": "The Verandah"
+                }
+            ],
+            [
+                {
+                    "activity": "Shopping",
+                    "location": "Mirza Ismail Road"
+                },
+                {
+                    "activity": "Dining",
+                    "location": "Bar Palladio"
+                }
+            ]
+        ]
+    },
+    "travel_instructions": {
+        "mode_of_transportation": "Train/Flight/Car",
+        "estimated_travel_time": "6-7 hours by car, 1.5 hours by flight, 7-8 hours by train",
+        "estimated_distance": "approximately 655 kilometers",
+        "route_details": "From Jaipur, take NH48 or NH79 to reach Ahmedabad. Alternatively, take a flight from Jaipur International Airport (JAI) to Sardar Vallabhbhai Patel International Airport (AMD) or a train from Jaipur Junction (JP) to Ahmedabad Junction (ADI)"
+    },
+    "destination_info": {
+        "images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU5Vl-JFkQ0hr8j04OV1dtcyOH0zjrGdvrMsVs25T-6EKXDRbTNvbLrj5qzMU&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMsqeyPXndoyB6VrtsI-Qk_F1sCTl-ElDQa7PkB4xb4QD1Ier8-JxOSOfx7Q&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQH_7d3wFf919DvjiCBvyR9x1YwpISnJE2mGAhMspWrB2OmWf54IrYlNlraQ&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP5upmxek9aVkTkWj4iLbRJL8IbbaZKSIpcYldTtFG8cJUBz26GPnFKQrqmg&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRODlH2EIAKHbzJciUgs7MXrJqoeKmU2HBn19mdqFDiMqa8yiSK9a0u2X6nxzg&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6xZwHvRRTdnZRYKVnSAIctp_YxY0DoQP7KMmXZVDztqKwjgB5VRPG3Iv-E3M&s"
+        ],
+        "coordinates": [
+            23.0527293,
+            87.4434688
+        ],
+        "coordinates1": [
+            23.0145531,
+            72.5635432
+        ]
+    }
+}

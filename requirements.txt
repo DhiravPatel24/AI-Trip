@@ -1,0 +1,11 @@
+streamlit==1.42.0
+pandas==2.2.3
+folium==0.14.0
+geopy==2.3.0
+python-dotenv==1.0.0
+requests==2.32.3
+beautifulsoup4==4.12.2
+langchain-core==0.0.1  
+langchain-groq==0.0.1  
+geocoder==1.38.1
+random==1.0  
